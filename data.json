@@ -2,10 +2,10 @@
   "GiftBoxes": [
     {
       "Id": "1",
-      "Name": "L\u00FCks Q\u0131rm\u0131z\u0131 H\u0259diyy\u0259 Qutusu",
+      "Name": "L\u00FCks Q\u0131rm\u0131z\u0131 H\u0259diyy\u0259 Qutusuuuuu",
       "Description": "Sevdiyiniz insana x\u00FCsusi bir g\u00FCn ya\u015Fatmaq \u00FC\u00E7\u00FCn haz\u0131rlanm\u0131\u015F bu l\u00FCks q\u0131rm\u0131z\u0131 h\u0259diyy\u0259 qutusu, \u0259n se\u00E7ilmi\u015F \u0259tir, \u015Fokolad v\u0259 mum kombinasiyas\u0131n\u0131 \u00F6z\u00FCnd\u0259 birl\u0259\u015Fdirir.",
       "Price": 85,
-      "Gender": "qad\u0131n",
+      "Gender": "qadin",
       "Images": [
         "public/images/giftbox-1.jpg",
         "public/images/giftbox-1b.jpg",
