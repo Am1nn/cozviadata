@@ -1,0 +1,21 @@
+{
+  "giftBoxes": [
+    {
+      "id": "1",
+      "name": "Lüks Qırmızı Hədiyyə Qutusu",
+      "description": "Sevdiyiniz insana xüsusi bir gün yaşatmaq üçün hazırlanmış bu lüks qırmızı hədiyyə qutusu, ən seçilmiş ətir, şokolad və mum kombinasiyasını özündə birləşdirir.",
+      "price": 85,
+      "gender": "qadın",
+      "images": ["public/images/giftbox-1.jpg", "public/images/giftbox-1b.jpg", "public/images/giftbox-5.jpg"],
+      "contents": ["Premium Ətir (50ml)", "Belçika Şokoladı", "Aromatik Mum", "Bağlama Kartı"],
+      "occasion": "Sevgililər Günü",
+      "inStock": true
+    }
+  ],
+  "priceRanges": [
+    { "label": "50 AZN-dən az", "min": 0, "max": 50 },
+    { "label": "50 – 100 AZN", "min": 50, "max": 100 },
+    { "label": "100 – 150 AZN", "min": 100, "max": 150 },
+    { "label": "150 AZN-dən çox", "min": 150, "max": null }
+  ]
+}
