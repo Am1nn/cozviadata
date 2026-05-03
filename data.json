@@ -1,19 +1,5 @@
 {
-  "GiftBoxes": [
-    {
-      "Id": "aedaaa77-69b8-4610-adc9-8b81ee76403e",
-      "Name": "Testq",
-      "Description": "test",
-      "Price": 300,
-      "Gender": "universal",
-      "Images": [],
-      "Contents": [
-        "test"
-      ],
-      "Occasion": "tedt",
-      "InStock": true
-    }
-  ],
+  "GiftBoxes": [],
   "PriceRanges": [
     {
       "Label": "50 AZN-d\u0259n az",
